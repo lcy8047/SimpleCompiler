@@ -18,6 +18,7 @@
  - Simple C Compiler는 tvm을 타겟으로 만들었습니다.
  - tvm은 https://github.com/woogyun/tvm 에서 다운받을 수 있습니다.
  - ./tvm a.t로 머신코드를 실행 할 수 있습니다.
+ - 출력하는 부분이 없어서 ./tvm -s ./a.t 명령어로 자세히 동작을 볼 수 있습니다.
 
 5. Remark
  - 예제 소스코드인 add_example.sc, addfunc_example.sc, func_example.sc, example.sc 파일이 있습니다.
